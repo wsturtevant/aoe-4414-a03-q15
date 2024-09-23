@@ -11,8 +11,8 @@
 # Output:
 #  Prints the converged latitude (deg), longitude (deg), and HAE (km)
 #
-# Written by Wheat Sturtevant
-# Other contributors: Brad Denby
+# Written by Brad Denby
+# Other contributors: Wheat Sturtevant
 #
 # This work is licensed under CC BY-SA 4.0
 
